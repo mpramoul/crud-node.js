@@ -9,3 +9,11 @@
  8. index.js => require('dotenv').config();
  9. cambiar las variables iniciales => const PORT = process.env.PORT || 3001;
  10. Subir a github
+ //Clone Proyect-------------------------------------------------------------
+ ##Instalación
+ ```Shell
+ npm install
+
+ ##Ejecutar
+ ```Shell
+ npm run dev
